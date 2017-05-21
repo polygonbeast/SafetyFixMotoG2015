@@ -6,4 +6,5 @@
 * Motorola G3
 * Magisk V12 installed
 
-Just install
+* Magisk Template v3
+Just install	
