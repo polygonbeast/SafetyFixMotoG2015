@@ -1,2 +1,9 @@
-# SafetyFixMotoG2015
-For MotoGP 2015, help to pass verification safety net  just install
+## SafetyFix MOTOG2015
+
+!!! Remember to activate the magisk hide option
+
+## Compatibility
+* Motorola G3
+* Magisk V12 installed
+
+Just install
